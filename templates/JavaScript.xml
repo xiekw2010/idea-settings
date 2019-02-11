@@ -1,0 +1,46 @@
+<templateSet group="JavaScript">
+  <template name="clog" value="console.log('$PARAM$')$END$" description="log info" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="newp" value="new Promise((resolve, reject) =&gt; {&#10;$END$&#10;})" description="promise" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;  $END$&#10;} catch (err) {&#10;  &#10;}" description="trycatch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ajax" value="    $.ajax(&#10;      {&#10;        type: '$METHOD$',&#10;        url: '$PATH$',&#10;        data: $DATA$,&#10;        success: function(data) {&#10;          $SUC$&#10;        },&#10;        error: function(xhr, textStatus, error) {&#10;          $ERR$&#10;        }&#10;      }&#10;    )&#10;    $END$" description="ajax" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SUC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ERR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($COND$) {&#10;  $END$&#10;}" description="if" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ifel" value="if ($COND$) {&#10;  $END$&#10;} else {&#10;    &#10;}" description="ifelse" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rq" value="require('$PARAM$')$END$" description="require" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

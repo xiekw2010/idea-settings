@@ -1,0 +1,15 @@
+<templateSet group="JavaScript Testing">
+  <template name="descr" value="describe('$NAME$', function() {&#10;  $END$&#10;})" description="Inserts describe() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="it" value="it('should $NAME$', function() {&#10;  $END$&#10;})" description="Inserts it() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ra" value="const R = require('ramda')&#10;const assert = require('assert')&#10;$END$" description="require ramda and assert" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

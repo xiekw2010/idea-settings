@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="MATERIAL_THEME" shouldLog="false" />
+    <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
