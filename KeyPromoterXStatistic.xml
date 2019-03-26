@@ -985,6 +985,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'test mapOperationBy.should pass find right value'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'test mapOperationBy.should pass find right value'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'test util keypath.should test keypath'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
