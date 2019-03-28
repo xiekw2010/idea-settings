@@ -313,6 +313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'test mapOperationBy.should pass jiuyi'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'test mapOperationBy.should pass jiuyi'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -647,6 +655,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'sync-chameleon.js'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test mapOperationBy.should pass jiuyi'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'test mapOperationBy.should pass jiuyi'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test.js'">
