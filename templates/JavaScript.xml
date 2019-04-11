@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="clog" value="console.log('$PARAM$')$END$" description="log info" toReformat="true" toShortenFQNames="true">
+  <template name="clog" value="console.log('--------&gt; $PARAM$')$END$" description="log info" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
