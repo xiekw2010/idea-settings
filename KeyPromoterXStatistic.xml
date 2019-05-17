@@ -1297,6 +1297,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'coolF.ts'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'coolF.ts'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'dev'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
