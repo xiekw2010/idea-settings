@@ -929,6 +929,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'xxx.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'xxx.js'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Diff">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
