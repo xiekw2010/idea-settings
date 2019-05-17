@@ -934,7 +934,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'xxx.js'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1215,6 +1215,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'util index test cases.test mapOperationBy'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'xxx.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'xxx.js'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
