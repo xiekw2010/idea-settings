@@ -593,6 +593,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'getAuthority should be strong'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'getAuthority should be strong'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'getSqlStringFromQueryObject test cases.should pass exception error type'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
