@@ -505,6 +505,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'build:online'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'build:online'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'build:raw'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
