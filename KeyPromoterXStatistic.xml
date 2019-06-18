@@ -769,12 +769,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'seq-test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'seq-test.js'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'seq-test.ts'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'seq-test.ts'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'should pass isNilOrEmptry'">
