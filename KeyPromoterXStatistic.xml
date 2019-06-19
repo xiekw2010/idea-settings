@@ -41,6 +41,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'api-util.test.ts'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'api-util.test.ts'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'basement-upload.js'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -231,6 +239,14 @@
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'api-util.test.ts'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'api-util.test.ts'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build.js'">
@@ -473,12 +489,36 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'api-util.test.ts'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'api-util.test.ts'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'api.test.ts'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'api.test.ts'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'array with single item'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'array with single item'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'authority.test.ts'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'authority.test.ts'</Description>
-          <Count>7</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bar.js'">
