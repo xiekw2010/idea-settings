@@ -481,6 +481,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'test/util/index.test.js.util.waitFor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'test/util/index.test.js.util.waitFor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'today.js'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1047,6 +1055,22 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'test/unit/index.test.js'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test/util/index.test.js.util.waitFor'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'test/util/index.test.js.util.waitFor'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test/util/index.test.js.util.waitFor.waitFor Promise handle error'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'test/util/index.test.js.util.waitFor.waitFor Promise handle error'</Description>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test:build'">
