@@ -1062,7 +1062,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'test/util/index.test.js.util.waitFor'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test/util/index.test.js.util.waitFor.waitFor Promise handle error'">
