@@ -6,6 +6,7 @@
       <mapping pattern="screencapture" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="chair-script-boot" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
