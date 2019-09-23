@@ -550,7 +550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'index.test.ts'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'index1.js'">
@@ -767,6 +767,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'test:build'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tests/interview6/index.test.ts'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'tests/interview6/index.test.ts'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'time-util.test.js'">
@@ -1095,6 +1103,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'test/unit/be/get-offline.test.js'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'tests/interview6/index.test.ts'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'tests/interview6/index.test.ts'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'today.js'">
