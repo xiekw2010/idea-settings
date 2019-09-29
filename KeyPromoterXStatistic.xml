@@ -585,6 +585,30 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'mig:gen autogen'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mig:gen autogen'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'mig:revert'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mig:revert'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'mig:run'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mig:run'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'migration:generate'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
