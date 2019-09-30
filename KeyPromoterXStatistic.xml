@@ -593,6 +593,22 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'mig:new unamed'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mig:new unamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'mig:new'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mig:new'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'mig:revert'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
