@@ -353,6 +353,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'searchRotatedMinElement test cases.should pass zero rotate 0 case'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'searchRotatedMinElement test cases.should pass zero rotate 0 case'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
