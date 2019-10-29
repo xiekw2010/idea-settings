@@ -566,7 +566,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'dalgen'</Description>
-          <Count>18</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'db:migrate:undo'">
@@ -734,7 +734,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'odp-start'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'offline data test cases.should not complete data'">
