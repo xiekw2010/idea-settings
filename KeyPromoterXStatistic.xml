@@ -566,7 +566,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'dalgen'</Description>
-          <Count>26</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'db:migrate:undo'">
