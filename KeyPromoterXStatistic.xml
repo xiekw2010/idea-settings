@@ -417,6 +417,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'test-local'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'test-local'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'test.js'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -886,7 +894,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'test-local'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test.js'">
