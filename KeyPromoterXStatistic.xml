@@ -1377,6 +1377,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'⌘T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="View Breakpoints...">
         <Item>
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
